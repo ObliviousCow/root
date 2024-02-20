@@ -31,3 +31,8 @@
 
 1. Polecenia do Linux'a <br>
 -- [Plik ZIP](https://obliviouscow.github.io/pracUTK/Polecenia%20Linux.zip) <br>
+-- Plik ISO (za duży więc nie dodałem, jest na teamsie w plikach) <br>
+-- Aplikacja YUMI-2.0.9.4, też jest na teamsie <br>
+
+
+## Pracownia sieci komputerowych: (dodam jutro)
