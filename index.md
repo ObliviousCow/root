@@ -18,3 +18,10 @@
 -- [5.2](https://obliviouscow.github.io/CSS/kopy_z5_2.html) - plik [CSS](https://obliviouscow.github.io/CSS/kopy_z5_2.css) <br>
 -- [5.3](https://obliviouscow.github.io/CSS/kopy_z5_3.html) - styl w części \<head> <br>
 -- [5.4](https://obliviouscow.github.io/CSS/kopy_z5_4.html) - styl w części \<h1> <br>
+
+## Pracownia sieciowych systemów operacyjnych:
+### Linux (Ubuntu/Debian)
+
+1. Ćwiczenie 1 <br>
+-- [Ćwiczenie\s1](https://obliviouscow.github.io/pracowniaSSO/cw1.docx) <br>
+-- [Ćwiczenie\s1\sNotatka](https://obliviouscow.github.io/pracowniaSSO/cw1%20notatka.docx) <br>
