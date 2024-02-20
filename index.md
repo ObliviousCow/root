@@ -1,4 +1,3 @@
-# Strona zawierająca wszelkie zadania z pracowni:
 ## Pracownia witryn i aplikacji:
 ### HTML (2 oddzielne zadania)
 
@@ -11,7 +10,7 @@
 -- [Strona główna](https://obliviouscow.github.io/12-15/glowny_kopytko.html)
 -- [Stopka](https://obliviouscow.github.io/12-15/stopka_kopytko.html)
 -- [Logo](https://obliviouscow.github.io/12-15/logo_kopytko.html)
-
+<br>
 ### CSS (Nie ukończone)
 1. Zadanie 5.1-5.4
 -- [5.1](https://obliviouscow.github.io/CSS/kopy_z5_1.html) - plik [CSS](https://obliviouscow.github.io/CSS/kopy_z5_1.css)
