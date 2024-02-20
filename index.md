@@ -13,7 +13,7 @@
 
 ### CSS (Nie ukończone)
 
-1. Zadanie 5.1-5.4 <br>
+1. Zadanie 5.1-5.4 (chyba ukończone) <br>
 -- [5.1](https://obliviouscow.github.io/CSS/kopy_z5_1.html) - plik [CSS](https://obliviouscow.github.io/CSS/kopy_z5_1.css) <br>
 -- [5.2](https://obliviouscow.github.io/CSS/kopy_z5_2.html) - plik [CSS](https://obliviouscow.github.io/CSS/kopy_z5_2.css) <br>
 -- [5.3](https://obliviouscow.github.io/CSS/kopy_z5_3.html) - styl w części \<head> <br>
@@ -25,3 +25,9 @@
 1. Ćwiczenie 1 <br>
 -- [Ćwiczenie 1](https://obliviouscow.github.io/pracowniaSSO/cw1.docx) <br>
 -- [Ćwiczenie 1 Notatka](https://obliviouscow.github.io/pracowniaSSO/cw1%20notatka.docx) <br>
+
+## Pracownia urządzeń techniki komputerowej (Nie ukończone)
+### Linux (pliki o które pan nas prosił, abyśmy pobrali)
+
+1. Polecenia do Linux'a <br>
+-- [Plik ZIP](https://obliviouscow.github.io/pracUTK/Polecenia%20Linux.zip) <br>
