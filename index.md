@@ -23,5 +23,5 @@
 ### Linux (Ubuntu/Debian)
 
 1. Ćwiczenie 1 <br>
--- [Ćwiczenie\s1](https://obliviouscow.github.io/pracowniaSSO/cw1.docx) <br>
--- [Ćwiczenie\s1\sNotatka](https://obliviouscow.github.io/pracowniaSSO/cw1%20notatka.docx) <br>
+-- [Ćwiczenie 1](https://obliviouscow.github.io/pracowniaSSO/cw1.docx) <br>
+-- [Ćwiczenie 1 Notatka](https://obliviouscow.github.io/pracowniaSSO/cw1%20notatka.docx) <br>
