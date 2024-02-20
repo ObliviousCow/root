@@ -13,8 +13,8 @@
 
 ### CSS (Nie ukończone)
 
-1. Zadanie 5.1-5.4
--- [5.1](https://obliviouscow.github.io/CSS/kopy_z5_1.html) - plik [CSS](https://obliviouscow.github.io/CSS/kopy_z5_1.css)
--- [5.2](https://obliviouscow.github.io/CSS/kopy_z5_2.html) - plik [CSS](https://obliviouscow.github.io/CSS/kopy_z5_2.css)
--- [5.3](https://obliviouscow.github.io/CSS/kopy_z5_3.html) - styl w części \<head>
--- [5.4](https://obliviouscow.github.io/CSS/kopy_z5_4.html) - styl w części \<h1>
+1. Zadanie 5.1-5.4 <br>
+-- [5.1](https://obliviouscow.github.io/CSS/kopy_z5_1.html) - plik [CSS](https://obliviouscow.github.io/CSS/kopy_z5_1.css) <br>
+-- [5.2](https://obliviouscow.github.io/CSS/kopy_z5_2.html) - plik [CSS](https://obliviouscow.github.io/CSS/kopy_z5_2.css) <br>
+-- [5.3](https://obliviouscow.github.io/CSS/kopy_z5_3.html) - styl w części \<head> <br>
+-- [5.4](https://obliviouscow.github.io/CSS/kopy_z5_4.html) - styl w części \<h1> <br>
