@@ -13,6 +13,7 @@
 
 ### CSS (Nie ukończone)
 
+-- [instrukcja CSS](https://obliviouscow.github.io/CSS/instrukcja_css.pdf)
 1. Zadanie 5.1-5.4 (chyba ukończone) <br>
 -- [5.1](https://obliviouscow.github.io/CSS/kopy_z5_1.html) - plik [CSS](https://obliviouscow.github.io/CSS/kopy_z5_1.css) <br>
 -- [5.2](https://obliviouscow.github.io/CSS/kopy_z5_2.html) - plik [CSS](https://obliviouscow.github.io/CSS/kopy_z5_2.css) <br>
