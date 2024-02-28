@@ -19,6 +19,9 @@
 -- [5.2](https://obliviouscow.github.io/CSS/kopy_z5_2.html) - plik [CSS](https://obliviouscow.github.io/CSS/kopy_z5_2.css) <br>
 -- [5.3](https://obliviouscow.github.io/CSS/kopy_z5_3.html) - styl w części \<head> <br>
 -- [5.4](https://obliviouscow.github.io/CSS/kopy_z5_4.html) - styl w części \<h1> <br>
+2. Zadanie 6 <br>
+-- [6 html](https://obliviouscow.github.io/CSS/kopy_z6.html)
+-- [6 css](https://obliviouscow.github.io/CSS/kopy_z6.css)
 
 ## Pracownia sieciowych systemów operacyjnych:
 ### Linux (Ubuntu/Debian)
