@@ -30,6 +30,11 @@
 -- [Ćwiczenie 1](https://obliviouscow.github.io/pracowniaSSO/cw1.docx) <br>
 -- [Ćwiczenie 1 Notatka](https://obliviouscow.github.io/pracowniaSSO/cw1%20notatka.docx) <br>
 
+2. Ćwiczenie 2 <br>
+-- [Ćwiczenie 2](https://obliviouscow.github.io/pracowniaSSO/cw2.docx) <br>
+-- [Ćwiczenie 2 Notatka](https://obliviouscow.github.io/pracowniaSSO/cw2%20notatka.docx)
+
+
 ## Pracownia urządzeń techniki komputerowej (Nie ukończone)
 ### Linux (pliki o które pan nas prosił, abyśmy pobrali)
 
